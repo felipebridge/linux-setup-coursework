@@ -18,4 +18,4 @@ Proyecto académico orientado a sistemas operativos e infraestructura Linux.
 Proyecto Finalizado
 
 ## Diagrama
-(assets/diagrama.png)
+![Diagrama](assets/diagrama.png)
