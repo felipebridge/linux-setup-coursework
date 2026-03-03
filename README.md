@@ -14,8 +14,9 @@ Configuración de un servidor Debian en máquina virtual:
 ## Contexto
 Proyecto académico orientado a sistemas operativos e infraestructura Linux.
 
-## Estado
-Proyecto Finalizado
-
 ## Diagrama
 ![Diagrama](assets/diagrama.png)
+
+## Estado del proyecto
+
+Proyecto Finalizado
